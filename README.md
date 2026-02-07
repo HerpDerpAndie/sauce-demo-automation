@@ -1,6 +1,11 @@
 # Overview
 This automation project is meant to test sauce demo application, and verify end to end checkout flow, sorting based on price, and basic login functionalities
 
+# Tested Application
+Sauce demo web application used for this automation can be accesed from [Sauce Demo] (https://www.saucedemo.com/)
+## Login Credentials Used
+Login credentials is provided by the demo application, and this automation uses the `standar_user` user
+
 # Setup
 To install dependencies of this project run the command
 ```
